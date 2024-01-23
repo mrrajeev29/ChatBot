@@ -1,5 +1,5 @@
 
-const API_KEY='';
+const API_KEY=process.env.API_URL;
 
 // main.js
 //console.log('main.js loaded');
