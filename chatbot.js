@@ -1,5 +1,5 @@
 
-const API_KEY='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';
+const API_KEY='';
 
 // main.js
 //console.log('main.js loaded');
